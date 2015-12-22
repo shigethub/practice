@@ -1,1 +1,7 @@
-<?php echo phpinfo(); ?>
+<?php 
+echo 'say yes';
+echo phpinfo(); 
+
+
+
+?>
